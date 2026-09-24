@@ -11,7 +11,7 @@ This project involves working with EnviroCollective Network to design and develo
 ### Team Members of Group I:
 
 - Hyfa Sonia Mirembe
-- Team Member
+- Favi Alarcon
 - Team Member
 - Team Member
 
