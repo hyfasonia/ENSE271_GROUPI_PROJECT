@@ -12,7 +12,7 @@ This project involves working with EnviroCollective Network to design and develo
 
 - Hyfa Sonia Mirembe
 - Favi Alarcon
-- Team Member
+- Clifford Wabomba
 - Team Member
 
 ### Project Goals:
