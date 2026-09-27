@@ -13,7 +13,7 @@ This project involves working with EnviroCollective Network to design and develo
 - Hyfa Sonia Mirembe
 - Favi Alarcon
 - Clifford Wabomba
-- Team Member
+- Daniel Meyer
 
 ### Project Goals:
 1. To create a visually appealing hub with clear and simple structure and navigation that can easily be managed by staff.
