@@ -22,9 +22,9 @@ This project involves working with EnviroCollective Network to design and develo
 
 ### Client related information
 
-**NorthStar:** To be discussed.
+**NorthStar:** The community members seeking to discover and participate in EnviroCollective's programs, resources, events, and opportunities.
 
-**Carryover:** To be discussed.
+**Carryover:** the volunteers, sponsors and ECN administrators.
 
 ### Project Activities
 
