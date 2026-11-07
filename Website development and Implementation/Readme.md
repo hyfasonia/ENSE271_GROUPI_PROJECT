@@ -1,1 +1,1 @@
-### This folder documents the transition from Hifidelity prototyping to the development of the ECN Website using Wordpress.
+### This folder contains documents for the transition from Hifidelity prototyping to the development of the ECN Website using Wordpress.
